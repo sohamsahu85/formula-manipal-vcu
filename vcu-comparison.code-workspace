@@ -1,0 +1,10 @@
+{
+  "folders": [
+    { "name": "1 · shared logic (VcuApp)", "path": "shared_libs" },
+    { "name": "2 · FreeRTOS build",        "path": "vcu_freertos" },
+    { "name": "3 · miniOS build",          "path": "vcu_minios" }
+  ],
+  "settings": {
+    "files.associations": { "*.tpp": "cpp" }
+  }
+}

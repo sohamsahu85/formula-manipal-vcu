@@ -1,0 +1,6 @@
+# PlatformIO build output
+.pio/
+# IDE (machine-specific paths)
+.vscode/
+# Archives / scratch
+*.zip

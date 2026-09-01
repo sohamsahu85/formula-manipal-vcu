@@ -1,0 +1,11 @@
+{
+  "folders": [
+    { "name": "1 · vcu_car (car firmware)",   "path": "vcu_car" },
+    { "name": "2 · apps_cal (bring-up sample)", "path": "apps_cal" },
+    { "name": "shared_libs (frozen ref)",       "path": "shared_libs" },
+    { "name": "vcu_minios (frozen · validated)", "path": "vcu_minios" }
+  ],
+  "settings": {
+    "files.associations": { "*.tpp": "cpp" }
+  }
+}
